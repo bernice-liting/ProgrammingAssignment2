@@ -1,7 +1,7 @@
 ## R Programming Assignment Week 3
 ## There are 2 functions here. The 1st function makeCacheMatrix creates a special 
 ## "matrix" object that can cache its inverse.
-## The 2nd function cachemean computes the inverse of the special "matrix" created  
+## The 2nd function cacheSolve computes the inverse of the special "matrix" created  
 ## with the 1st function. However, it first checks to see if the inverse has already 
 ## been calculated. If so, it gets the inverse from the cache and skips the computation. 
 ## Otherwise, it computes the inverse of the matrix and sets the value of the inverse
